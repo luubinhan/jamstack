@@ -123,11 +123,11 @@ const LegacyWeb = ({
               </div>
               <div className="split-item-content center-content-mobile">
                 <h4 className="mt-0 mb-8">
-                  Hệ thống ứng dụng và server phức tạp
+                  Hệ thống ứng dụng và server cồng kềnh
                 </h4>
                 <p>
-                  Một website truyền thống là một ứng dụng luôn chạy trên phía
-                  server, việc này làm tốc độ của website sẽ chậm, nhiều rủi ro
+                  Với website truyền thống, một ứng dụng luôn chạy trên phía
+                  server (ví dụ như Wordpress), việc này làm tốc độ của website sẽ chậm, nhiều rủi ro
                   về bảo mật và rất tồn kém khi phải đáp ứng số lượng lớn người
                   sử dụng.
                 </p>
